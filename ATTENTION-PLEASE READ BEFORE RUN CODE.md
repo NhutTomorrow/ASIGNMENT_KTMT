@@ -30,7 +30,6 @@ Gomoku (Five in a Row) implemented in MIPS assembly. Two players alternate placi
 ## Installation
 ```bash
 # Clone repository (if available)
-git clone https://github.com/yourusername/mips-gomoku.git
-cd mips-gomoku
+git clone https://github.com/NhutTomorrow/ASIGNMENT_KTMT.git
 
 
